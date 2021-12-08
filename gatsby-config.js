@@ -11,7 +11,7 @@ module.exports = {
     siteTitleAlt: `SR1 - Site portfolio`,
     siteHeadline: `SR1 - Site portfolio de @camaf.eu`,
     siteUrl: `https://susanarebocho1.gatsbyjs.io`,
-    siteDescription: `Coloridom, animado, pagina-unica, portfolio com Parallax e animacoes`,
+    siteDescription: `Colorido, animado, pagina-unica, portfolio com Parallax e animacoes`,
     siteLanguage: `pt`,
     siteImage: `/banner.jpg`,
     author: `@camaf.eu`,
@@ -27,7 +27,7 @@ module.exports = {
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
         short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        description: `Colorido, animado, pagina-unica, portfolio com Parallax e animacoes`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
