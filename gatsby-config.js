@@ -14,7 +14,7 @@ module.exports = {
     siteDescription: `Coloridom, animado, pagina-unica, portfolio com Parallax e animacoes`,
     siteLanguage: `pt`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@camaf.eu`,
   },
   plugins: [
     {
