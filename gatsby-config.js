@@ -17,11 +17,11 @@ module.exports = {
     author: `@camaf.eu`,
   },
   plugins: [
-    {
-      resolve: `@lekoarts/gatsby-theme-cara`,
+    //{
+      //resolve: `@lekoarts/gatsby-theme-cara`,
       // See the theme's README for all available options
-      options: {},
-    },
+      //options: {},
+    //},
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
