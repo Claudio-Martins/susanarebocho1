@@ -14,9 +14,9 @@ const Footer = () => {
         sx={{ variant: `buttons.toggle`, fontWeight: `semibold`, display: `block`, mx: `auto`, mb: 3 }}
         onClick={toggleColorMode}
         type="button"
-        aria-label="Toggle dark mode"
+        aria-label="Mudar modo escuro"
       >
-        {isDark ? `Light` : `Dark`}
+        {isDark ? `Claro` : `Escuro`}
       </button>
       Copyright &copy; {new Date().getFullYear()}. All rights reserved.
       <br />
@@ -41,15 +41,15 @@ const Footer = () => {
           sx={{ ml: 2 }}
           href="https://paginas.webtuga.net"
         >
-          Theme
+          Páginas
         </Link>
-        <div sx={{ mx: 1 }}>by</div>
+        <div sx={{ mx: 1 }}>... e ...</div>
         {` `}
         <Link
           aria-label="Link 1"
           href="https://camaf.eu"
         >
-          LekoArts
+          Camafeus
         </Link>
       </Flex>
     </Box>
